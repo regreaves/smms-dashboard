@@ -1,0 +1,16 @@
+{
+  "name": "smms-dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fastify/express": "^2.3.0",
+    "express": "^4.18.2",
+    "fastify": "^4.24.3"
+  }
+}
